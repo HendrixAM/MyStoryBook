@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Story</string>
+    <string name="app_hook_page_1">text</string>
+    <string name="app_hook_page_2">text</string>
+    <string name="app_hook_page_3">text</string>
+    <string name="app_hook_page_4">text</string>
+    <string name="app_hook_page_5">text</string>
+</resources>
